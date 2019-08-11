@@ -1,0 +1,16 @@
+<testsuites name="Mocha Tests">
+  <testsuite name="First test" tests="3" errors="0" failures="0" skipped="0" timestamp="2019-08-10T19:51:28" time="0.081">
+    <testcase classname="First test" name="User 1 should return 200 response" time="0.008">
+    </testcase>
+    <testcase classname="First test" name="User 2 should return 200 response" time="0.011">
+    </testcase>
+    <testcase classname="First test" name="test addressStreet" time="0.009">
+      <system-out><![CDATA[{ addressStreet: '222 Main St',
+  addressCity: 'Portland',
+  addressState: 'OR',
+  addressZip: '97209',
+  userId: 2 }
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
