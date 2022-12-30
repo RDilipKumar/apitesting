@@ -6,7 +6,7 @@
     "dependencies": {
         "body-parser": "^1.17.1",
         "chai": "^3.5.0",
-        "mocha": "^6.2.0",
+        "mocha": "^10.2.0",
         "mocha-jenkins-reporter": "^0.4.2",
         "supertest": "^3.0.0"
     },
